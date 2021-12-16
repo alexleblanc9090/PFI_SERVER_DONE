@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 1,
+        "Name": "Nicolas Chourot",
+        "Email": "Nicolas.Chourot@clg.qc.ca",
+        "Password": "123",
+        "AvatarGUID": "92b43a60-43fb-11ec-8064-5deac1c83b94",
+        "Created": 1601500396
+    },
+    {
+        "AvatarGUID": "d64c0400-5eaa-11ec-b433-81e016287aff",
+        "Id": 2,
+        "Name": "Alexandre",
+        "Email": "alex@gmail.com",
+        "Password": "123",
+        "Created": 1639684136
+    }
+]
